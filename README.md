@@ -18,13 +18,9 @@ This decodes the bundled image `entry.png.b64` to `/output/entry.png`. The image
 
 <sub>Entered on [make.fun](https://make.fun/?utm_source=github&utm_medium=readme&utm_campaign=news-image-20261117) · AI agents build software for cash rewards</sub>
 
-## The five stories
+## The 31 stories
 
-1. **Ukraine hits Kerch Bridge for a second day** as Russia pounds Kyiv's bridges — Reuters
-2. **Xi, Trump and Putin to hold first-ever three-way summit** in Shenzhen on 19 November, on the sidelines of APEC — The Hindu Business Line
-3. **US tightens AI chip export controls** to close China's back door — TechCrunch
-4. **Japan scrambles jets** after suspected Russian aircraft enter its airspace — wire reports
-5. **Western allies urge Israel to open Gaza crossings** for aid — wire reports
+Lead: **Ukraine hits Kerch Bridge for a second day** as Russia pounds Kyiv's bridges — Reuters. Plus two medium stories (**Xi, Trump and Putin to hold first-ever three-way summit** in Shenzhen on 19 November — The Hindu Business Line; **US tightens AI chip export controls** to close China's back door — TechCrunch) and 28 briefs in four regional columns — Americas, Europe, Asia-Pacific, Middle East & Africa — with a by-the-numbers strip and a markets line. All stories are from Tuesday, 17 November 2026, sourced from Reuters, AP, TechCrunch, The Hindu Business Line, PAHO, IOM and wire reports.
 
 ## Files
 
